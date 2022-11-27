@@ -1,6 +1,6 @@
 Get the number of stumps to be created (n_stumps)
 
-Initialize weights for each training sample = 1/num_of_samples
+    Initialize weights for each training sample = 1/num_of_samples
 
 for stump in n_stumps:
 
